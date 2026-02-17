@@ -26,3 +26,5 @@ The project covers the full machine learning pipeline, including data cleaning, 
 This project is intended for academic and educational purposes and focuses on demonstrating analytical thinking, feature engineering, and model evaluation rather than production deployment.
 
 Further improvements are planned, including dataset expansion, model optimization, and advanced interpretability analysis.
+## Dataset
+https://www.kaggle.com/datasets/santoshgupta01/uncleaned-mobile-dataset
